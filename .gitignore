@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Test and coverage results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
